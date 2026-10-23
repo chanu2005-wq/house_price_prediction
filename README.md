@@ -2,51 +2,45 @@
 
 <div align="center">
 
-<img src="./client/src/assets/quick-blog.svg" alt="Quick Blog — animated neon banner" width="100%" />
+# 🏠 HOUSE PRICE PREDICTION
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=800&height=55&lines=INTELLIGENT+PROPERTY+PRICE+ESTIMATION;MACHINE+LEARNING+MEETS+REAL+ESTATE;EXPLORE+DATA.+TRAIN+MODELS.+PREDICT.;TURN+HOUSING+DATA+INTO+INSIGHTS." alt="Animated House Price Prediction headline" width="100%" />
+
+**Predictive intelligence for smarter property price estimation.**
+
+An exploratory machine-learning project that applies regression algorithms, data preprocessing, visualization, and model evaluation to housing data.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=50&lines=AI-POWERED+CONTENT+CREATION;WRITE+SMARTER.+PUBLISH+FASTER.;YOUR+IDEAS%2C+AMPLIFIED+BY+AI;CREATE.+PUBLISH.+INSPIRE." alt="Animated Quick Blog headline" />
-
-### ✦ Create smarter. Publish faster. Share ideas. ✦
-
-An AI-powered blogging platform combining intelligent content creation, modern blog management, and a streamlined publishing experience.
-
-<br/>
-
-<a href="https://quick-blog-client-delta-two.vercel.app/">
-  <img src="https://img.shields.io/badge/EXPLORE_LIVE_DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=0B1020" alt="Live Demo" />
+<a href="https://github.com/chanu2005-wq/house_price_prediction">
+  <img src="https://img.shields.io/badge/EXPLORE_SOURCE_CODE-0B1020?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Source Code"/>
 </a>
-<a href="https://github.com/chanu2005-wq/AI_powered_blog">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-</a>
-<a href="https://gitdiagram.com/chanu2005-wq/ai_powered_blog">
-  <img src="https://img.shields.io/badge/EXPLORE_ARCHITECTURE-EC4899?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Architecture" />
+<a href="https://github.com/chanu2005-wq/house_price_prediction/blob/main/house_prediction.ipynb">
+  <img src="https://img.shields.io/badge/OPEN_NOTEBOOK-6D28D9?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-REST_API-FFFFFF?style=flat-square&logo=express&logoColor=black" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/ImageKit-Image_Hosting-EC4899?style=flat-square" alt="ImageKit" />
+<img src="https://img.shields.io/badge/Python-Data_Science-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Scikit--learn-Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Regression-Predictive_Modeling-22D3EE?style=flat-square" alt="Regression"/>
+<img src="https://img.shields.io/badge/Status-Exploratory_Project-8B5CF6?style=flat-square" alt="Project status"/>
 
 <br/><br/>
 
-![GitHub Stars](https://img.shields.io/github/stars/chanu2005-wq/AI_powered_blog?style=flat-square&color=8B5CF6)
-![GitHub Forks](https://img.shields.io/github/forks/chanu2005-wq/AI_powered_blog?style=flat-square&color=22D3EE)
-![GitHub Issues](https://img.shields.io/github/issues/chanu2005-wq/AI_powered_blog?style=flat-square&color=F59E0B)
-![Last Commit](https://img.shields.io/github/last-commit/chanu2005-wq/AI_powered_blog?style=flat-square&color=34D399)
+![GitHub Stars](https://img.shields.io/github/stars/chanu2005-wq/house_price_prediction?style=flat-square&color=8B5CF6)
+![GitHub Forks](https://img.shields.io/github/forks/chanu2005-wq/house_price_prediction?style=flat-square&color=22D3EE)
+![GitHub Issues](https://img.shields.io/github/issues/chanu2005-wq/house_price_prediction?style=flat-square&color=F59E0B)
+![Last Commit](https://img.shields.io/github/last-commit/chanu2005-wq/house_price_prediction?style=flat-square&color=34D399)
 
 <br/>
 
-`IDEA` &nbsp; ◆ &nbsp; `GENERATE` &nbsp; ◆ &nbsp; `PUBLISH` &nbsp; ◆ &nbsp; `INSPIRE`
+`DATA` &nbsp; ◆ &nbsp; `PREPROCESS` &nbsp; ◆ &nbsp; `TRAIN` &nbsp; ◆ &nbsp; `EVALUATE`
 
 <br/>
 
-[Overview](#-overview) · [Features](#-features) · [Architecture](#-architecture) · [Tech Stack](#-tech-stack) · [Installation](#-getting-started) · [Deployment](#-deployment) · [Roadmap](#-roadmap)
+[Overview](#-overview) · [Features](#-project-features) · [Workflow](#-machine-learning-workflow) · [Tech Stack](#-technology-stack) · [Setup](#-getting-started) · [Structure](#-project-structure) · [Roadmap](#-future-enhancements)
 
 </div>
 
@@ -54,326 +48,285 @@ An AI-powered blogging platform combining intelligent content creation, modern b
 
 ## 🌌 Overview
 
-**Quick Blog** is a full-stack blogging application built to simplify content creation and blog administration with AI-assisted writing capabilities.
+**House Price Prediction** explores how machine-learning regression algorithms can be used to estimate house prices from housing data.
 
-The platform combines a reader-facing blog experience with a dedicated admin workspace for managing articles, uploading images, and moderating comments.
+The project includes a Jupyter notebook and a housing dataset. Its documented scope covers data preprocessing, exploratory visualization, and model evaluation using:
 
-### What it offers
+- Linear Regression
+- Random Forest
+- XGBoost
 
-| Capability | Description |
+The goal is to explore housing data, compare regression approaches, and understand how predictive models can support property price estimation.
+
+### Why this project?
+
+| Objective | Description |
 |:--|:--|
-| **AI-assisted writing** | Generate blog content using the integrated AI service. |
-| **Blog management** | Create, edit, publish, and delete blog posts. |
-| **Admin workspace** | Access protected administrative functionality. |
-| **Image hosting** | Upload and deliver blog images through ImageKit. |
-| **Persistent storage** | Store application data in MongoDB. |
-| **Cloud deployment** | Host the frontend and backend independently. |
+| **Data preparation** | Prepare housing data for machine-learning analysis. |
+| **Exploratory analysis** | Visualize and investigate patterns in the dataset. |
+| **Regression modeling** | Explore multiple algorithms for predicting numerical values. |
+| **Model evaluation** | Evaluate model performance using appropriate regression metrics. |
+| **Practical learning** | Understand the workflow from raw data to model predictions. |
 
 ---
 
-## ✨ Features
+## ✨ Project Features
 
 <details open>
-<summary><strong>🤖 AI-Assisted Content Generation</strong></summary>
+<summary><strong>📊 Housing Data Analysis</strong></summary>
 
-Generate blog content using the AI service integrated into the application, supporting a more efficient writing workflow.
-
-</details>
-
-<details>
-<summary><strong>📝 Blog Management</strong></summary>
-
-Manage blog posts through the administrative interface, including creating, editing, publishing, and deleting articles.
+Work with the included `housing.csv` dataset as part of the house-price prediction workflow.
 
 </details>
 
 <details>
-<summary><strong>🔐 Authentication and Authorization</strong></summary>
+<summary><strong>🧹 Data Preprocessing</strong></summary>
 
-Use the application's authentication and token-verification flow to protect administrative operations.
-
-</details>
-
-<details>
-<summary><strong>🖼️ ImageKit Integration</strong></summary>
-
-Upload blog images and serve them using an external image-hosting service.
+Prepare data for modeling and investigate data quality before training regression algorithms.
 
 </details>
 
 <details>
-<summary><strong>💬 Comment Moderation</strong></summary>
+<summary><strong>📈 Data Visualization</strong></summary>
 
-Review and moderate reader comments from the admin workspace.
+Explore housing data through visual analysis to better understand distributions and relationships.
 
 </details>
 
 <details>
-<summary><strong>📚 Blog Discovery</strong></summary>
+<summary><strong>🧠 Multiple Regression Algorithms</strong></summary>
 
-Browse published articles and open individual posts through the reader interface.
+Explore Linear Regression, Random Forest, and XGBoost as documented modeling approaches.
+
+</details>
+
+<details>
+<summary><strong>🎯 Model Evaluation</strong></summary>
+
+Evaluate predictive performance and compare models using suitable regression metrics.
+
+</details>
+
+<details>
+<summary><strong>📓 Reproducible Notebook Workflow</strong></summary>
+
+Use `house_prediction.ipynb` to explore the analysis and modeling workflow interactively.
 
 </details>
 
 ---
 
-## 🏗️ Architecture
+## 🧠 Machine Learning Workflow
 
-<div align="center">
-
-### SYSTEM OVERVIEW
-
-**React + Vite → Express API → MongoDB Atlas + External Services**
-
-<a href="https://gitdiagram.com/chanu2005-wq/ai_powered_blog">
-  <img src="https://gitdiagram.com/chanu2005-wq/ai_powered_blog/diagram.png" width="100%" alt="AI-Powered Blog system architecture" />
-</a>
-
-[**Explore the interactive architecture →**](https://gitdiagram.com/chanu2005-wq/ai_powered_blog)
-
-</div>
-
-### Publishing workflow
+The following diagram represents the high-level workflow for a housing regression project. It is conceptual; the exact processing sequence and selected final model should be confirmed from the notebook.
 
 ```mermaid
 flowchart TD
-    A([Admin Login]) --> B[Admin Dashboard]
-    B --> C[Create Blog Post]
-    C --> D[AI Content Generation]
-    C --> E[Upload Blog Image]
-    D --> F[Review and Publish]
-    E --> F
-    F --> G[(MongoDB)]
-    G --> H[Readers Browse Articles]
-    H --> I[Comment Moderation]
+    A([Housing Dataset]) --> B[Data Inspection]
+    B --> C[Data Preprocessing]
+    C --> D[Exploratory Data Analysis]
+    D --> E[Prepare Features and Target]
+    E --> F[Train Regression Models]
 
-    classDef admin fill:#17112f,stroke:#8b5cf6,color:#ffffff
-    classDef service fill:#08291f,stroke:#34d399,color:#ffffff
-    classDef reader fill:#071a30,stroke:#22d3ee,color:#ffffff
+    F --> G[Linear Regression]
+    F --> H[Random Forest]
+    F --> I[XGBoost]
 
-    class A,B,C,F,I admin
-    class D,E,G service
-    class H reader
+    G --> J[Evaluate Model Performance]
+    H --> J
+    I --> J
+
+    J --> K[Compare Results]
+    K --> L([Price Estimation])
+
+    classDef source fill:#071A30,stroke:#22D3EE,color:#FFFFFF
+    classDef process fill:#17112F,stroke:#8B5CF6,color:#FFFFFF
+    classDef model fill:#10251F,stroke:#34D399,color:#FFFFFF
+    classDef result fill:#32152F,stroke:#EC4899,color:#FFFFFF
+
+    class A source
+    class B,C,D,E,J,K process
+    class F,G,H,I model
+    class L result
 ```
 
-<sub>Conceptual workflow based on the supplied project documentation.</sub>
+### Workflow stages
 
-### Architecture components
-
-| Component | Responsibility |
+| Stage | Purpose |
 |:--|:--|
-| **Frontend** | Blog browsing, article views, and reader interactions. |
-| **Admin interface** | Administrative authentication, blog management, and comment moderation. |
-| **Backend API** | Server-side logic, controllers, routes, and authentication. |
-| **MongoDB Atlas** | Persistent application data. |
-| **ImageKit** | Blog image hosting and delivery. |
-| **AI service** | AI-assisted blog content generation. |
+| 01 — Inspect | Understand the available data and its structure. |
+| 02 — Prepare | Handle data-quality and preprocessing requirements. |
+| 03 — Explore | Investigate patterns using visualizations. |
+| 04 — Train | Apply regression algorithms to the prepared data. |
+| 05 — Evaluate | Measure predictive performance. |
+| 06 — Compare | Identify the model that performs best under the chosen evaluation method. |
 
 ---
 
-## ⚙️ Tech Stack
+## 📁 Dataset
+
+The repository contains `housing.csv`, which is the dataset file used in the project.
+
+| Resource | Location |
+|:--|:--|
+| Housing dataset | [`housing.csv`](./housing.csv) |
+| Jupyter notebook | [`house_prediction.ipynb`](./house_prediction.ipynb) |
+| Python dependencies | [`requirements.txt`](./requirements.txt) |
+
+Before running the notebook, inspect its data-loading cells to confirm the expected target column, input features, and preprocessing requirements.
+
+**Dataset note:** The source, geographic coverage, column definitions, and target variable are not specified here because they have not been independently confirmed from the notebook.
+
+---
+
+## ⚙️ Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,js,vercel&perline=7" alt="Quick Blog technology stack" />
+<img src="https://skillicons.dev/icons?i=python,sklearn,jupyter&perline=3" alt="Python machine-learning technology stack"/>
 
 </div>
 
-| Layer | Technology | Purpose |
-|:--|:--|:--|
-| Frontend | React | User interface |
-| Build tool | Vite | Frontend development and build tooling |
-| Backend | Node.js | Server runtime |
-| API | Express.js | Backend routes and application logic |
-| Database | MongoDB Atlas | Data persistence |
-| Image hosting | ImageKit | Image upload and delivery |
-| AI integration | Configured AI provider | AI-assisted writing |
-| Frontend hosting | Vercel | Frontend deployment |
-| Backend hosting | Render | Backend deployment |
-| Language | JavaScript | Application development |
+| Technology | Role |
+|:--|:--|
+| Python | Data analysis and machine-learning development |
+| Jupyter Notebook | Interactive experimentation and documentation |
+| Scikit-learn | Machine-learning tools, including regression algorithms where used |
+| XGBoost | Gradient-boosting model listed in the project description |
+| `housing.csv` | Housing dataset |
+| `requirements.txt` | Python dependency list |
+
+The exact library versions and additional visualization or data-processing packages should be taken from the repository's `requirements.txt`.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python installed on your system
+- Git
+- pip
+- Jupyter Notebook or JupyterLab
+
+### 01. Clone the repository
+
+```bash
+git clone https://github.com/chanu2005-wq/house_price_prediction.git
+cd house_price_prediction
+```
+
+### 02. Create a virtual environment
+
+```bash
+python -m venv .venv
+```
+
+Activate it on macOS or Linux:
+
+```bash
+source .venv/bin/activate
+```
+
+On Windows:
+
+```powershell
+.venv\Scripts\activate
+```
+
+### 03. Install dependencies
+
+```bash
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+### 04. Launch Jupyter Notebook
+
+```bash
+jupyter notebook house_prediction.ipynb
+```
+
+Alternatively, open the notebook in VS Code with the Jupyter extension installed.
+
+### 05. Run the analysis
+
+1. Open `house_prediction.ipynb`.
+2. Review the imports and dataset-loading cells.
+3. Confirm that `housing.csv` is available at the expected path.
+4. Run the notebook cells in order.
+5. Review the data analysis, model training, and evaluation outputs.
+
+> **Tip:** If the notebook reports a missing package or file, check the dependency list and dataset path before changing the modeling code.
 
 ---
 
 ## 📂 Project Structure
 
 ```text
-AI_powered_blog/
-├── client/
-│   ├── public/
-│   ├── src/
-│   │   ├── assets/
-│   │   │   └── quick-blog.svg
-│   │   ├── components/
-│   │   ├── pages/
-│   │   │   ├── Home.jsx
-│   │   │   ├── Blog.jsx
-│   │   │   ├── BlogList.jsx
-│   │   │   └── admin/
-│   │   └── context/
-│   │       └── app-context.jsx
-│   └── package.json
-├── server/
-│   ├── configs/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── server.js
-│   └── package.json
+house_price_prediction/
+│
+├── .ipynb_checkpoints/
+│
+├── house_prediction.ipynb
+│
+├── housing.csv
+│
+├── requirements.txt
+│
 └── README.md
 ```
 
-<sub>This is an illustrative structure based on the supplied README. Confirm filenames and directories against the actual repository.</sub>
+This structure reflects the repository's visible top-level files. The `.ipynb_checkpoints/` directory is generated by Jupyter and is not essential to the documented project workflow.
 
 ---
 
-## 🚀 Getting Started
+## 📈 Model Evaluation
 
-Follow these steps to run the application locally.
+Model evaluation is a core part of regression development. The project description lists three modeling approaches for comparison.
 
-### Prerequisites
-
-- [Node.js](https://nodejs.org/)
-- npm
-- [MongoDB Atlas](https://www.mongodb.com/atlas) or a compatible MongoDB instance
-- [ImageKit](https://imagekit.io/) credentials
-- Credentials for the AI provider configured in the application
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/chanu2005-wq/AI_powered_blog.git
-cd AI_powered_blog
-```
-
-### 2. Install backend dependencies
-
-```bash
-cd server
-npm install
-```
-
-Create the backend environment file using the example file if your repository provides one:
-
-```bash
-cp .env.example .env
-```
-
-Configure the variables required by the backend, such as the database URI, administrator authentication settings, ImageKit credentials, and AI provider key. Use the exact variable names expected by your source code.
-
-Start the backend:
-
-```bash
-npm start
-```
-
-### 3. Install frontend dependencies
-
-Open a second terminal from the repository root:
-
-```bash
-cd client
-npm install
-```
-
-If a frontend environment example exists, copy it and configure the API base URL according to the application's configuration:
-
-```bash
-cp .env.example .env
-```
-
-Start the frontend:
-
-```bash
-npm run dev
-```
-
-Open the local development URL displayed in the terminal.
-
-### 🔑 Environment configuration
-
-The application may require configuration for:
-
-| Configuration | Purpose |
+| Model | Approach |
 |:--|:--|
-| MongoDB connection URI | Database connectivity |
-| Admin authentication | Administrator access |
-| ImageKit credentials | Image upload and delivery |
-| AI provider API key | AI-assisted content generation |
-| Frontend API base URL | Connect the client to the backend |
-| CORS allowed origin | Permit requests from the frontend |
+| Linear Regression | Baseline linear regression |
+| Random Forest | Tree-based ensemble regression |
+| XGBoost | Gradient-boosted tree regression |
 
-> [!CAUTION]
-> Never commit real credentials, production database URIs, passwords, or private API keys to GitHub. Keep sensitive values in environment variables and configure production secrets through the relevant hosting provider.
+For a meaningful comparison, use the evaluation metrics and test strategy implemented in the notebook. Common regression metrics include:
 
-**Note:** The `.env.example` commands above are conditional. If those files do not exist in your repository, create the environment files manually using the variable names required by the application.
+- **MAE:** Mean absolute prediction error.
+- **MSE:** Mean squared prediction error.
+- **RMSE:** Root mean squared prediction error.
+- **R²:** Proportion of target variance explained by the model.
 
----
+These are standard metrics to consider, not a claim that every metric is already implemented in this repository.
 
-## 🌐 Deployment
-
-<div align="center">
-
-<a href="https://quick-blog-client-delta-two.vercel.app/">
-  <img src="https://img.shields.io/badge/FRONTEND-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Frontend deployed on Vercel" />
-</a>
-
-<a href="https://ai-powered-blog-534w.onrender.com/">
-  <img src="https://img.shields.io/badge/BACKEND-RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Backend deployed on Render" />
-</a>
-
-<a href="https://www.mongodb.com/atlas">
-  <img src="https://img.shields.io/badge/DATABASE-MONGODB_ATLAS-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
-</a>
-
-</div>
-
-| Resource | Link |
-|:--|:--|
-| Live website | [Open Quick Blog](https://quick-blog-client-delta-two.vercel.app/) |
-| Backend host | [Render service](https://ai-powered-blog-534w.onrender.com/) |
-| Architecture | [GitDiagram](https://gitdiagram.com/chanu2005-wq/ai_powered_blog) |
-| Source code | [GitHub repository](https://github.com/chanu2005-wq/AI_powered_blog) |
-
-<sub>These URLs come from the supplied project documentation. Their current availability has not been independently verified.</sub>
+No accuracy score or winning model is advertised here because the measured results have not been verified.
 
 ---
 
-## 🔮 Roadmap
+## 🔮 Future Enhancements
 
-The following items are **potential future enhancements**, not claims about existing functionality.
+The following are suggestions for future development, not claims about existing functionality.
 
-- [ ] Add full-text search, tags, and categories.
-- [ ] Introduce a rich-text editing experience.
-- [ ] Add AI-generated titles and article summaries.
-- [ ] Expand blog analytics.
-- [ ] Improve search engine optimization tools.
-- [ ] Add related-article recommendations.
-
----
-
-## 🔒 Security
-
-Recommended practices for maintaining the application:
-
-- Store sensitive configuration in environment variables.
-- Enforce authorization on protected backend routes.
-- Validate incoming requests.
-- Restrict CORS to trusted frontend origins.
-- Keep production dependencies and deployment settings secure.
-- Never expose private API keys in frontend code or public repositories.
+- [ ] Document the dataset source, columns, and target variable.
+- [ ] Add a clear model-comparison table with measured evaluation results.
+- [ ] Add feature-importance analysis where supported by the selected model.
+- [ ] Improve visualizations and error analysis.
+- [ ] Add reproducible train/test evaluation.
+- [ ] Save a trained model and document how to load it for inference.
+- [ ] Explore an interactive prediction interface as a separate extension.
 
 ---
 
 ## 🤝 Contributing
 
-Contributions, suggestions, and bug reports are welcome.
+Suggestions and improvements are welcome.
 
 1. Fork the repository.
 2. Create a feature branch.
-3. Implement and test your changes.
-4. Commit your changes with a descriptive message.
-5. Open a pull request explaining the changes.
+3. Make your changes.
+4. Test the notebook and verify the results.
+5. Open a pull request with a description of your changes.
 
 ---
 
@@ -383,15 +336,15 @@ Contributions, suggestions, and bug reports are welcome.
 
 ### Chanukya Chandra
 
-**Full-Stack Development · AI Integration**
+**Machine Learning · Python · Data Science**
 
 <a href="https://github.com/chanu2005-wq">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
 <br/><br/>
 
-*Built with the MERN ecosystem. Enhanced with AI. Designed for better blogging.*
+*Turning housing data into insights through machine learning.*
 
 If you find this project useful, consider giving it a ⭐ on GitHub.
 
@@ -399,6 +352,6 @@ If you find this project useful, consider giving it a ⭐ on GitHub.
 
 [⬆ Back to Top](#top)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:6D28D9,100:06B6D4&height=140&section=footer" width="100%" alt="Neon gradient footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:6D28D9,100:06B6D4&height=140&section=footer" width="100%" alt="Neon gradient footer"/>
 
 </div>
